@@ -2,7 +2,7 @@
 
 ## Todos os desafios do curso da rocketseat (GoStack) esão listados abaixo:
 
-[### Desafio01 (Node - CRUD)](https://github.com/matheusgbl/gostack-desafios/tree/master/desafio01)
+[Desafio01 Node - CRUD](https://github.com/matheusgbl/gostack-desafios/tree/master/desafio01)
 [### Desafio02 (ReactJS - Add/Remove repository)](https://github.com/matheusgbl/gostack-desafios/tree/master/desafio02)
 [### Desafio03 (React Native - Add/Remove repository)](https://github.com/matheusgbl/gostack-desafios/tree/master/desafio03)
 [### Desafio04 (Typescript - Transaction backend)](https://github.com/matheusgbl/gostack-desafios/tree/master/desafio04)
