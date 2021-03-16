@@ -1,5 +1,15 @@
 # GoStack desafios
 
+## 💻 Introdução:
+
+Estes são todos os desafios que são propostos dentro do curso GoStack da turma 14.
+
+Todos os desafios devem ser entregues e corrigidos para concluir o curso de desenvolvimento FullStack.
+
+Estas são as minhas soluções que desenvolvi ao longo do curso, nestes desafios estão inclusos aplicações Web e Mobile, também contém toda a estrutura de um banco de dados.
+
+As principais tecnologias utilizadas foram Node, React e React Native, em grande maioria sendo foi Typescript.
+
 ## Todos os desafios do curso da rocketseat (GoStack) esão listados abaixo:
 
 + [Desafio01 Node - CRUD](https://github.com/matheusgbl/gostack-desafios/tree/master/desafio01)
